@@ -1,0 +1,17 @@
+@import "../src/assets/css/product.css";
+@import "../src/assets/css/about.css";
+@import "../src/assets/css/All-home.css";
+@import "../src/assets/css/auth.css";
+@import "../src/assets/css/cart.css";
+@import "../src/assets/css/checkout1.css";
+@import "../src/assets/css/home.css";
+@import "../src/assets/css/payment-info.css";
+/* @import "../src/assets/css/product.css"; */
+@import "../src/assets/css/shopping-info.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
